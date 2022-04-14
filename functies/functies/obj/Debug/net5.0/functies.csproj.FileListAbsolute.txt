@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.exe
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.deps.json
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.runtimeconfig.json
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.runtimeconfig.dev.json
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.dll
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\ref\functies.dll
+C:\Users\basde\source\repos\functies\functies\bin\Debug\net5.0\functies.pdb
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.AssemblyInfo.cs
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.dll
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\ref\functies.dll
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.pdb
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.genruntimeconfig.cache
+C:\Users\basde\source\repos\functies\functies\obj\Debug\net5.0\functies.csproj.AssemblyReference.cache

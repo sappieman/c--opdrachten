@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.exe
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.deps.json
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.runtimeconfig.json
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.runtimeconfig.dev.json
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.dll
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\ref\scopes.dll
+C:\Users\basde\source\repos\scopes\scopes\bin\Debug\net5.0\scopes.pdb
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.AssemblyInfo.cs
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.dll
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\ref\scopes.dll
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.pdb
+C:\Users\basde\source\repos\scopes\scopes\obj\Debug\net5.0\scopes.genruntimeconfig.cache

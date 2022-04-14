@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.exe
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.deps.json
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.runtimeconfig.json
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.runtimeconfig.dev.json
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.dll
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\ref\Getters-Setters.dll
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\bin\Debug\net5.0\Getters-Setters.pdb
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.AssemblyInfo.cs
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.dll
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\ref\Getters-Setters.dll
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.pdb
+C:\Users\basde\source\repos\Getters-Setters\Getters-Setters\obj\Debug\net5.0\Getters-Setters.genruntimeconfig.cache

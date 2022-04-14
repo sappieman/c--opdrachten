@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.exe
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.deps.json
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.runtimeconfig.json
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.runtimeconfig.dev.json
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.dll
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\ref\tijd.dll
+C:\Users\basde\source\repos\tijd\tijd\bin\Debug\net5.0\tijd.pdb
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.AssemblyInfo.cs
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.dll
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\ref\tijd.dll
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.pdb
+C:\Users\basde\source\repos\tijd\tijd\obj\Debug\net5.0\tijd.genruntimeconfig.cache

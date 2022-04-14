@@ -1,0 +1,15 @@
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.exe
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.deps.json
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.runtimeconfig.json
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.runtimeconfig.dev.json
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.dll
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\ref\variable_return.dll
+C:\Users\basde\source\repos\variable_return\variable_return\bin\Debug\net5.0\variable_return.pdb
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.AssemblyInfo.cs
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.dll
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\ref\variable_return.dll
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.pdb
+C:\Users\basde\source\repos\variable_return\variable_return\obj\Debug\net5.0\variable_return.genruntimeconfig.cache

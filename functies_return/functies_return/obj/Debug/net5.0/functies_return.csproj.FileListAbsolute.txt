@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.exe
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.deps.json
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.runtimeconfig.json
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.runtimeconfig.dev.json
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.dll
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\ref\functies_return.dll
+C:\Users\basde\source\repos\functies_return\functies_return\bin\Debug\net5.0\functies_return.pdb
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.AssemblyInfo.cs
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.dll
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\ref\functies_return.dll
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.pdb
+C:\Users\basde\source\repos\functies_return\functies_return\obj\Debug\net5.0\functies_return.genruntimeconfig.cache

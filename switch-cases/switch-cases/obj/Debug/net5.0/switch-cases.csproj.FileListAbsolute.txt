@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.exe
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.deps.json
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.runtimeconfig.json
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.runtimeconfig.dev.json
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.dll
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\ref\switch-cases.dll
+C:\Users\basde\source\repos\switch-cases\switch-cases\bin\Debug\net5.0\switch-cases.pdb
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.AssemblyInfo.cs
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.dll
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\ref\switch-cases.dll
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.pdb
+C:\Users\basde\source\repos\switch-cases\switch-cases\obj\Debug\net5.0\switch-cases.genruntimeconfig.cache

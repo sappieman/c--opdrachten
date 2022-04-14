@@ -1,0 +1,5 @@
+C:\Users\basde\source\repos\oefening\oefening\obj\Debug\net5.0\oefening.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\oefening\oefening\obj\Debug\net5.0\oefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\oefening\oefening\obj\Debug\net5.0\oefening.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\oefening\oefening\obj\Debug\net5.0\oefening.AssemblyInfo.cs
+C:\Users\basde\source\repos\oefening\oefening\obj\Debug\net5.0\oefening.csproj.CoreCompileInputs.cache

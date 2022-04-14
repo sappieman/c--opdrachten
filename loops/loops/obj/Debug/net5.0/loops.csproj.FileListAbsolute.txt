@@ -1,0 +1,16 @@
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.csproj.AssemblyReference.cache
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.exe
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.deps.json
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.dll
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\ref\loops.dll
+C:\Users\basde\source\repos\loops\loops\bin\Debug\net5.0\loops.pdb
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.dll
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\ref\loops.dll
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.pdb
+C:\Users\basde\source\repos\loops\loops\obj\Debug\net5.0\loops.genruntimeconfig.cache
