@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basde\\source\\repos\\overerving\\overerving\\overerving.csproj": {}
+    "C:\\Users\\basde\\Desktop\\c#-opdrachten\\overerving\\overerving\\overerving.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basde\\source\\repos\\overerving\\overerving\\overerving.csproj": {
+    "C:\\Users\\basde\\Desktop\\c#-opdrachten\\overerving\\overerving\\overerving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basde\\source\\repos\\overerving\\overerving\\overerving.csproj",
+        "projectUniqueName": "C:\\Users\\basde\\Desktop\\c#-opdrachten\\overerving\\overerving\\overerving.csproj",
         "projectName": "overerving",
-        "projectPath": "C:\\Users\\basde\\source\\repos\\overerving\\overerving\\overerving.csproj",
+        "projectPath": "C:\\Users\\basde\\Desktop\\c#-opdrachten\\overerving\\overerving\\overerving.csproj",
         "packagesPath": "C:\\Users\\basde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basde\\source\\repos\\overerving\\overerving\\obj\\",
+        "outputPath": "C:\\Users\\basde\\Desktop\\c#-opdrachten\\overerving\\overerving\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\basde\\AppData\\Roaming\\NuGet\\NuGet.Config",

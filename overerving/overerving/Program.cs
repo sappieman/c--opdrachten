@@ -1,12 +1,25 @@
 ﻿using System;
 
-namespace overerving
+namespace Overerving
 {
-    class Program
+    class Animal
+    {
+        public void feed()
+        {
+            Console.WriteLine("chappings");
+        }
+    }
+    class horse : Animal
+    {
+        public string ras = "Arabier";
+    }
+    class horseeat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            horse myanimal = new horse();
+            myanimal.feed();
         }
+
     }
 }
