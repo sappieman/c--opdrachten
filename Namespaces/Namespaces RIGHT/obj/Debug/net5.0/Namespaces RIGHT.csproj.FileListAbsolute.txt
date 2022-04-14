@@ -1,0 +1,37 @@
+C:\Users\Nick van Luyk\source\repos\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.AssemblyReference.cache
+C:\Users\Nick van Luyk\source\repos\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick van Luyk\source\repos\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfoInputs.cache
+C:\Users\Nick van Luyk\source\repos\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfo.cs
+C:\Users\Nick van Luyk\source\repos\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.CoreCompileInputs.cache
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.exe
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.deps.json
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.runtimeconfig.json
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.runtimeconfig.dev.json
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\ref\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.pdb
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.AssemblyReference.cache
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfoInputs.cache
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfo.cs
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.CoreCompileInputs.cache
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\ref\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.pdb
+C:\Users\basde\Desktop\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.genruntimeconfig.cache
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.exe
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.deps.json
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.runtimeconfig.json
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.runtimeconfig.dev.json
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\ref\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\bin\Debug\net5.0\Namespaces RIGHT.pdb
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.AssemblyReference.cache
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfoInputs.cache
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.AssemblyInfo.cs
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.csproj.CoreCompileInputs.cache
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\ref\Namespaces RIGHT.dll
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.pdb
+C:\Users\basde\Desktop\c#-opdrachten\Namespaces RIGHT\Namespaces RIGHT\obj\Debug\net5.0\Namespaces RIGHT.genruntimeconfig.cache
